@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    border:0px;
+    padding:0px;
+}
+.titulo
+{   background-color: aqua;
+    padding: 20px;
+    border: 20px;
+    border-style: solid;
+    border-color: red;
+    margin: 20px;
+}
+.p1
+{
+    background-color: yellow;
+    padding: 10px;
+    border-top: 80px;
+    border-bottom: 50px;
+    border-left: 20px;
+    border-right: 5px;
+    border-style: solid;
+    border-radius: 30px;
+    margin: 20px;
+    width: 200px;
+    display:inline-block;
+}
+.p2
+{
+    background-color: greenyellow;
+    padding: 30px;
+    border: 20px;
+    border-style:solid;
+    border-radius: 35px;
+    border-top-color: red;
+    border-bottom-color: blue;
+    border-left-color: aqua;
+    border-right-color: orange;
+    margin:20px;
+    width: 200px;
+    display: inline-block;
+}
